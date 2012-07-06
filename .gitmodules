@@ -6,7 +6,7 @@
 	url = git://github.com/LearnBoost/mongoose.git
 [submodule "support/socket.io"]
 	path = support/socket.io
-	url = git://github.com/LearnBoost/Socket.IO-node.git
+	url = git://github.com/LearnBoost/socket.io.git
 [submodule "support/jade"]
 	path = support/jade
 	url = git://github.com/visionmedia/jade.git
